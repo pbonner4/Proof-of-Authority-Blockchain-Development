@@ -2,9 +2,9 @@
 
 ###
 
-** Before beginning you must download geth, puppeth and MyCrypto Wallet before starting.
+** Before beginning you must download geth, puppeth and MyCrypto Wallet.
 
-1. Open up notes or microsoft word, in order to have information to revert back to and save information for your terminal window.
+1. Open up notes or Microsoft Word, in order to have information to revert back to and save information for your terminal window.
 
 2. Open up a folder and directory to work in, place nodes in, and place keystores in.
 
