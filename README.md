@@ -40,7 +40,7 @@ Next, Creating the Genesis block
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-###Open MyCrypto
+### Open MyCrypto
 
 7. With your blockchain now running, open up your myCrypto app and click on the change network link in the lower righthand corner. Make sure to scroll all the way to the bottom and click on the custom in order to reveal more options like the chain ID. Be sure to set the URL to http://127.0.0.1:8545.
 
