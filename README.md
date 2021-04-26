@@ -49,14 +49,6 @@ ________________________________________________________________________________
 9. Send a transaction from Node 1 to a new Node 2. Confirm the transaction by clicking Check TX Status.
 
 
-
-
-Aaron, I spoke with Kyle about the screenshots confirming the transaction and we could not come up with a solution to my problem.
-
-
-
-
-
 In order to begin mining, run this code, inputting your own numbers.
 ./geth --datadir node1/ --syncmode 'full' --networkid 'any number' --rpc --minerthreads 1 --unlock "node1_sealer_address" --password node1/password.txt --mine --allow-insecure-unlock
 
